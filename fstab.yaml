@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:8080/bin/franklin.delivery/samm-rocks/universal-editor-started/main"
+    url: "http://localhost:8080/bin/franklin.delivery/local/universal-editor-started/main"
     type: "markup"
     suffix: ".html"
