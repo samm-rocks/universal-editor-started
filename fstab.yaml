@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "http://localhost:4502/bin/franklin.delivery/local/universal-editor-started/main"
+    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/samm-rocks/universal-editor-started/main"
     type: "markup"
     suffix: ".html"
